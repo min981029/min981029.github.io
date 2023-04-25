@@ -20,7 +20,7 @@ title                    : "SKM RFB Rescher"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SeungGi Min"
-description              : "An amazing website."
+description              : "Preparing for research at DGIST University."
 url                      : "https://min981029.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Min Seung Gi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Dongguk University."
+  bio              : "Preparing for research at DGIST University."
   location         : "Somewhere"
   email            : mintmdrl@naver.com
   links:
